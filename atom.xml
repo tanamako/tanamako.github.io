@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Developer's Blog]]></title>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://example.com/"/>
+  <updated>2014-01-08T11:07:30+09:00</updated>
+  <id>http://example.com/</id>
+  <author>
+    <name><![CDATA[Makoto Tanaka]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[はじめまして]]></title>
+    <link href="http://example.com/blog/2014/01/08/post-title/"/>
+    <updated>2014-01-08T10:45:37+09:00</updated>
+    <id>http://example.com/blog/2014/01/08/post-title</id>
+    <content type="html"><![CDATA[<p>octopressで始めるブログのテストですよ</p>
+
+<p>ロリポしね！しね！</p>
+]]></content>
+  </entry>
+  
+</feed>
